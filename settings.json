@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BOT-1",
     "password": "",
     "type": "offline"
   },
@@ -19,10 +19,10 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
-    "anti-afk": {
+    "anti-afk": {true
       "enabled": true,
       "sneak": true
     },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": false,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
