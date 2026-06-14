@@ -22,7 +22,7 @@
       "enabled": false,
       "password": "chalol78"
     },
-    "anti-afk": {false
+    "anti-afk": {true
       "enabled": true,
       "sneak": true
     },
