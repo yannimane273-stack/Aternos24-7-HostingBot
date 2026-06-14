@@ -1,4 +1,4 @@
-{
+
   "name": "AFK Bot",
   "bot-account": {
     "username": "BOT-1",
@@ -21,8 +21,7 @@
     "auto-auth": {
       "enabled": false,
       "password": "chalol78"
-    },
-    "anti-afk": {false,
+     "anti-afk": false,
       "enabled": true,
       "sneak": true
     },
